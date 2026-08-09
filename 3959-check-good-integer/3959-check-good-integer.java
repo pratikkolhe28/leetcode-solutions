@@ -1,5 +1,6 @@
 class Solution {
     public boolean checkGoodInteger(int n) {
+        boolean result = false;
         int squareSum = 0;
         int digitSum = 0;
 
@@ -11,9 +12,9 @@ class Solution {
         }
 
         if(squareSum-digitSum >= 50) {
-            return true;
-        } else {
-            return false;
-        }
+            result = true;
+        } 
+
+        return result;
     }
 }
