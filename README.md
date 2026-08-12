@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0148-sort-list) |
