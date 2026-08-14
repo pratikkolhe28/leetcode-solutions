@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3637-trionic-array-i](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3637-trionic-array-i) |
 | [3731-find-missing-elements](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
