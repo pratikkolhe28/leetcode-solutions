@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Merge Sort
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0260-single-number-iii](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0268-missing-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Counting
 |  |
 | ------- |
