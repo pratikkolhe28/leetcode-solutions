@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0414-third-maximum-number](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
