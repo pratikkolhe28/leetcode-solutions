@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0231-power-of-two) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0268-missing-number) |
