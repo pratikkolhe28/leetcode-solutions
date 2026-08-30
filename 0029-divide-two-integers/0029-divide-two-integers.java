@@ -1,0 +1,28 @@
+class Solution {
+    public int divide(int dividend, int divisor) {
+        if(dividend == divisor) return 1;
+
+        boolean sign = (dividend < 0) == (divisor < 0);
+
+        long n = Math.abs((long)dividend);
+        long d = Math.abs((long)divisor);
+        long quotient = 0;
+
+        while(n >= d) {
+            int cnt = 0;
+            while(n >= (d << (cnt+1))) {
+                cnt++;
+            }
+
+            quotient += 1<<cnt;
+            n -= (d << cnt);
+        }
+
+        if(quotient == (1<<31) && sign) return Integer.MAX_VALUE;
+
+        if(quotient == (1<<31) && !sign) return Integer.MIN_VALUE;
+
+        long result = sign ? quotient : -quotient;
+        return (int) result;     
+    }
+}
