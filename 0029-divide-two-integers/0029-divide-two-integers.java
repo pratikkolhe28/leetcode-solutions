@@ -22,7 +22,6 @@ class Solution {
 
         if(quotient == (1<<31) && !sign) return Integer.MIN_VALUE;
 
-        long result = sign ? quotient : -quotient;
-        return (int) result;     
+        return sign ? (int) quotient : (int) -quotient;   
     }
 }
