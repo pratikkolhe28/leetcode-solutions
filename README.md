@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3637-trionic-array-i](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3637-trionic-array-i) |
 | [3731-find-missing-elements](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Merge Sort
 |  |
 | ------- |
