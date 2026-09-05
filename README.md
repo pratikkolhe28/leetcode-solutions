@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [3903-smallest-stable-index-i](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
