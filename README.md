@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0896-monotonic-array](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0896-monotonic-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1331-rank-transform-of-an-array](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0633-sum-of-square-numbers](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1901-find-a-peak-element-ii](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
@@ -138,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
