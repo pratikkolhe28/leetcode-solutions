@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0258-add-digits) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0268-missing-number) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0344-reverse-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
