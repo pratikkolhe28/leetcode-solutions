@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
+| [1154-day-of-the-year](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1154-day-of-the-year) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0344-reverse-string) |
+| [1154-day-of-the-year](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1154-day-of-the-year) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
