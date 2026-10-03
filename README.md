@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Math
 |  |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0344-reverse-string) |
+| [1021-remove-outermost-parentheses](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1154-day-of-the-year](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1154-day-of-the-year) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Number Theory
 |  |
 | ------- |
