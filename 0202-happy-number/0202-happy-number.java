@@ -4,22 +4,22 @@ class Solution {
         int fast = n;
 
         do {
-            slow = sumOfSquares(slow);
-            fast = sumOfSquares(sumOfSquares(fast));
-        } while (slow != fast);
+            slow = square(slow);
+            fast = square(square(fast));
+        } while(slow != fast);
 
         return slow == 1;
     }
 
-    private int sumOfSquares(int n) {
-        int sum = 0;
+    private int square(int n) {
+        int sq = 0;
 
-        while (n > 0) {
-            int digit = n % 10;
-            sum += digit * digit;
-            n /= 10;
+        while(n > 0) {
+            int r = n % 10;
+            sq = sq + r*r;
+            n = n / 10;
         }
 
-        return sum;
+        return sq;
     }
 }
