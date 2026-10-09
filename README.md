@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0204-count-primes](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0268-missing-number) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0258-add-digits) |
 ## Tree
 |  |
@@ -395,4 +398,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0278-first-bad-version) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
