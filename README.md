@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1331-rank-transform-of-an-array](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1672-richest-customer-wealth](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1154-day-of-the-year) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
