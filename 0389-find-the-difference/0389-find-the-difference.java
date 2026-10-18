@@ -1,16 +1,32 @@
 class Solution {
     public char findTheDifference(String s, String t) {
-        int sumS = 0;
-        int sumT = 0;
+        int xor = 0;
 
         for(int i = 0; i < s.length(); i++) {
-            sumS += s.charAt(i);
+            xor ^= s.charAt(i);
         }
 
         for(int i = 0; i < t.length(); i++) {
-            sumT += t.charAt(i);
+            xor ^= t.charAt(i);
         }
 
-        return (char) (sumT - sumS);
+        return (char) xor;
     }
 }
+
+// class Solution {
+//     public char findTheDifference(String s, String t) {
+//         int sumS = 0;
+//         int sumT = 0;
+
+//         for(int i = 0; i < s.length(); i++) {
+//             sumS += s.charAt(i);
+//         }
+
+//         for(int i = 0; i < t.length(); i++) {
+//             sumT += t.charAt(i);
+//         }
+
+//         return (char) (sumT - sumS);
+//     }
+// }
