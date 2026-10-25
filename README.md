@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0027-remove-element) |
+| [0041-first-missing-positive](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0138-copy-list-with-random-pointer](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
