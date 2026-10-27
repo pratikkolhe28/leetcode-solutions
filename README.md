@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1492-the-kth-factor-of-n](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
 | [2409-count-days-spent-together](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0258-add-digits) |
+| [1492-the-kth-factor-of-n](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
 ## Tree
 |  |
 | ------- |
@@ -485,4 +487,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
