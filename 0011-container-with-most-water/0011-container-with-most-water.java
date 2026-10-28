@@ -9,9 +9,7 @@ class Solution {
             int dist = right - left;
             maxWater = Math.max(maxWater, hgt*dist);
 
-            if(height[left] == height[right]) {
-                left++;
-            } else if(height[left] < height[right]) {
+            if(height[left] <= height[right]) {
                 left++;
             } else {
                 right--;
