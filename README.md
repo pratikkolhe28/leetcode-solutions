@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0055-jump-game) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
