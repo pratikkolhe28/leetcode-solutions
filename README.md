@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0766-toeplitz-matrix](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0766-toeplitz-matrix](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
+| [0867-transpose-matrix](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Linked List
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
