@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0766-toeplitz-matrix](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
