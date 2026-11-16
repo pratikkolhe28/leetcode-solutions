@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2239-find-closest-number-to-zero](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/2239-find-closest-number-to-zero) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3364-minimum-positive-sum-subarray](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3467-transform-array-by-parity](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3637-trionic-array-i](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3637-trionic-array-i) |
 | [3731-find-missing-elements](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3467-transform-array-by-parity](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
+| [3467-transform-array-by-parity](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 ## Sliding Window
 |  |
 | ------- |
