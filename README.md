@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0766-toeplitz-matrix](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0867-transpose-matrix) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 ## Counting
