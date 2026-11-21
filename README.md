@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2239-find-closest-number-to-zero](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/2239-find-closest-number-to-zero) |
+| [2679-sum-in-a-matrix](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3364-minimum-positive-sum-subarray](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3467-transform-array-by-parity](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2679-sum-in-a-matrix](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
 | [3467-transform-array-by-parity](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
+| [2679-sum-in-a-matrix](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2679-sum-in-a-matrix](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
 | [3925-concatenate-array-with-reverse](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## String
 |  |
@@ -596,4 +600,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2679-sum-in-a-matrix](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
 <!---LeetCode Topics End-->
