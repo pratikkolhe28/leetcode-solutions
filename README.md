@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-sum-in-a-matrix](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3364-minimum-positive-sum-subarray](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3467-transform-array-by-parity](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3637-trionic-array-i](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3637-trionic-array-i) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
 | [2409-count-days-spent-together](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Newton's Method
 |  |
 | ------- |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0258-add-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Tree
 |  |
 | ------- |
@@ -545,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0204-count-primes) |
 | [0970-powerful-integers](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/0970-powerful-integers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Primality Test
 |  |
 | ------- |
