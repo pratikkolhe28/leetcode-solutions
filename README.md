@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
 | [2409-count-days-spent-together](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3536-maximum-product-of-two-digits](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2679-sum-in-a-matrix](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
+| [3360-stone-removal-game](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3925-concatenate-array-with-reverse](https://github.com/pratikkolhe28/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## String
 |  |
